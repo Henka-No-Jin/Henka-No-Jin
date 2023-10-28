@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif 600px" alt="MasterHead">
+  <img src="https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif 1000px" alt="MasterHead">
 </div>
 
 <h1 align="center">Hello World 👋, I'm Joseph Mario V</h1>
