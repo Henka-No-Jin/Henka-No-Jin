@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif))]
+[![MasterHead](https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif)]
 <h1 align="center">Hello World 👋, I'm Joseph Mario V</h1>
 <h3 align="center">A Junior Game Developer From Indonesia</h3>
 
