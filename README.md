@@ -1,4 +1,7 @@
-[![MasterHead](https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif)]
+<div style="text-align: center;">
+  <img src="https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif" alt="MasterHead">
+</div>
+
 <h1 align="center">Hello World 👋, I'm Joseph Mario V</h1>
 <h3 align="center">A Junior Game Developer From Indonesia</h3>
 
