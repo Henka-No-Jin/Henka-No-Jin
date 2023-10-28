@@ -2,7 +2,8 @@
   <img src="https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif" alt="MasterHead">
 </p>
 
-<h1 align="center">Hello World 👋, I'm Joseph Mario V</h1>
+<h1 align="center">Hello World</h1>
+<h2 align="center">I'm Joseph Mario V</h2>
 <h3 align="center">A Junior Game Developer From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henka-no-jin&label=Profile%20views&color=0e75b6&style=flat" alt="henka-no-jin" /> </p>
