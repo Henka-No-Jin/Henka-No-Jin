@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henka-no-jin&label=Profile%20views&color=0e75b6&style=flat" alt="henka-no-jin" /> </p>
 
-- 🔭 I’m currently working on [stationery_store](https://github.com/SkyPooZi/stationery_store.git)
+- 🔭 I’m currently working on [3D_Walking_Simulator](https://github.com/Henka-No-Jin/3D_Walking_Simulator_Game)
 
 - 👯 I’m looking to collaborate on **Game Development Project**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jose.mariovalentino@gmail.com**
 
-- ⚡ Fun fact **I'm Groots**
+- ⚡ Fun fact **I'm Greatest Of All Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
