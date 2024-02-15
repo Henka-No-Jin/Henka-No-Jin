@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henka-no-jin&label=Profile%20views&color=0e75b6&style=flat" alt="henka-no-jin" /> </p>
 
-- 🔭 I’m currently working on [laravel]((https://github.com/Henka-No-Jin/laravel))
+- 🔭 I’m currently working on [laravel](https://github.com/Henka-No-Jin/laravel)
 
 - 👯 I’m looking to collaborate on **Game Development Project**
 
