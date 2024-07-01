@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [laravel](https://github.com/Henka-No-Jin/laravel)
 
-- 👯 I’m looking to collaborate on **Game Development Project**
+- 👯 I’m looking to collaborate on **Any Development Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Henka-No-Jin](https://github.com/Henka-No-Jin)
 
