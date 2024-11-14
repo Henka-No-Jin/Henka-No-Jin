@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Henka-No-Jin](https://github.com/Henka-No-Jin)
 
-- 💬 Ask me about **Love**
+- 💬 Ask me about **GYM**
 
 - 📫 How to reach me **jose.mariovalentino@gmail.com**
 
-- ⚡ Fun fact **I'm Greatest Of All Time**
+- ⚡ Fun fact **I'm The Best, But i'm too lazy **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
