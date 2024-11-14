@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **jose.mariovalentino@gmail.com**
 
-- ⚡ Fun fact **I'm The Best, But i'm too lazy **
+- ⚡ Fun fact **I'm The Best, But i'm too lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
