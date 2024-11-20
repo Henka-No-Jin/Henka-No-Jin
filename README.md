@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif" alt="MasterHead">
+  <img src="https://github.com/user-attachments/assets/3cd2ba6d-b578-4b61-b95b-764c35f02596" alt="Channel Header">
 </p>
 
 <h1 align="center">Hello World !</h1>
