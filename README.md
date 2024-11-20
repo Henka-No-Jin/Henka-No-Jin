@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://media.tenor.com/IGKWOQF8CeYAAAAC/naruto-konoha.gif" alt="MasterHead">
-  <img src="https://github.com/user-attachments/assets/3cd2ba6d-b578-4b61-b95b-764c35f02596" alt="Channel Header">
 </p>
 
 <h1 align="center">Hello World !</h1>
 <h2 align="center">Joseph Mario Valentino Is Here!</h2>
 <h3 align="center">I'm Both AMV Editor and Software Developer From Indonesia</h3>
 <h4 align="center">Checkout My Youtube Channel, Henka No Jin</h4>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3cd2ba6d-b578-4b61-b95b-764c35f02596" alt="Channel Header">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henka-no-jin&label=Profile%20views&color=0e75b6&style=flat" alt="henka-no-jin" /> </p>
 
