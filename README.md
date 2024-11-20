@@ -4,7 +4,8 @@
 
 <h1 align="center">Hello World !</h1>
 <h2 align="center">Joseph Mario Valentino Is Here!</h2>
-<h3 align="center">A Software Developer From Indonesia</h3>
+<h3 align="center">I'm Both AMV Editor and Software Developer From Indonesia</h3>
+<h4 align="center" color="red">Checkout My Youtube Channel, Henka No Jin</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henka-no-jin&label=Profile%20views&color=0e75b6&style=flat" alt="henka-no-jin" /> </p>
 
