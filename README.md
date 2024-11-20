@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henka-no-jin&label=Profile%20views&color=0e75b6&style=flat" alt="henka-no-jin" /> </p>
 
-- 🔭 I’m currently working on [next-js-rental-motor](https://github.com/SkyPooZi/next-js-rental-motor)
+- 🔭 I’m currently working on [school-esoftplay](https://github.com/Henka-No-Jin/school-esoftplay)
 
 - 👯 I’m looking to collaborate on **Any Development Project**
 
